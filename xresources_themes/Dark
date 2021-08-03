@@ -1,0 +1,37 @@
+! #16252E
+! special
+*foreground:   #ccccfa
+*background:   #111c23
+*cursorColor:  #edeef0
+
+! black
+*color0:       #303644
+*color8:       #303644
+
+! red
+*color1:       #dc8195
+*color9:       #dc8195
+
+! green
+*color2:       #bbcc99
+*color10:      #bbcc99
+
+! yellow
+*color3:       #ddaaa0
+*color11:      #ddaaa0
+
+! blue
+*color4:       #99aadd
+*color12:      #99aadd
+
+! magenta
+*color5:       #c7953d
+*color13:      #c7953d
+
+! cyan
+*color6:       #99bbdd
+*color14:      #99bbdd
+
+! white
+*color7:       #999ba0
+*color15:      #edeef0
