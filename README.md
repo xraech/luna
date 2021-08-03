@@ -1,2 +1,2 @@
 # luna
-![Screenshot](./themes/luna/wallpaper.png)
+![Screenshot](./screenshot.png)
